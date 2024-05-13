@@ -1,6 +1,6 @@
 public class Array1 {
 	public static void main(String[] args) {
-		        int[] array = {3, 7, 1, 9, 4};
+		        int[] array = {3, 7, 1, 9, 4,5};
 		        
 		        int indexToDelete = 2;
 		        int[] modifiedArray = deleteElement(array, indexToDelete);
